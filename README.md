@@ -15,7 +15,8 @@ Update updates at the rate declared in start.html.
 ## Draw
 
 Draw updates at the rate the browser allows. This is the place to draw images.
-#Non-required functions that can be used
+
+# Non-required functions that can be used
 
 ## mouseup
 
