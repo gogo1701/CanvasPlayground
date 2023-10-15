@@ -54,5 +54,7 @@ Checks if the given parameter is a function. Returns boolean.
 
 # Global Variables
 
-+MouseX - Mouse on X position
-+MouseY - Mouse on Y position
+<ol>
+<li>MouseX - Mouse on X position
+<li>MouseY - Mouse on Y position
+</ol>
