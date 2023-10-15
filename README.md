@@ -23,3 +23,11 @@ Draws image. There are 500 hundred images ready for you to use. Check their name
 ## LoadImg(nameOfImage)
 
 Put your own custom image in the image folder and use it! (WARNING! BE SURE FOR IT TO NOT BE WITH THE SAME NAME AS AN EXISTING ONE!)
+
+## areColliding(Ax, Ay, Awidth, Aheight, Bx, By, Bwidth, Bheight)
+
+Function to check if two rectangles are colliding.
+
+## randomInteger(upTo)
+
+Makes generating random integers easier and more simpler.
