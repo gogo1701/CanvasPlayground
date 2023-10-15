@@ -2,7 +2,7 @@
 
 CanvasPlayground is an tool that you can easily draw images. Using the game.js file you can add simple logic to draw images and change their positions. Events and other stuff are coming soon.
 
-#Functions in game.js
+# Main Functions (where to type code)
 
 ## init
 
@@ -15,6 +15,21 @@ Update updates at the rate declared in start.html.
 ## Draw
 
 Draw updates at the rate the browser allows. This is the place to draw images.
+#Non-required functions that can be used
+
+## mouseup
+
+Calls function when user releases mouse button.
+
+## mousedown
+
+Calls function when user holds mouse button.
+
+## mousemove
+
+Calls function when user moves mouse.
+
+# Functions usable in game.js
 
 ## drawImage(img,x,y,width,length)
 
@@ -31,3 +46,12 @@ Function to check if two rectangles are colliding.
 ## randomInteger(upTo)
 
 Makes generating random integers easier and more simpler.
+
+## isFunction(f)
+
+Checks if the given parameter is a function. Returns boolean.
+
+# Global Variables
+
+MouseX - Mouse on X position
+MouseY - Mouse on Y position
