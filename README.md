@@ -30,6 +30,14 @@ Calls function when user holds mouse button.
 
 Calls function when user moves mouse.
 
+## keydown(keyCode)
+
+Calls function when a key is pressed. Also gives the keyCode.
+
+## keyup(keyCode)
+
+Calls function when a key is released. Also gives the keyCode.
+
 # Functions usable in game.js
 
 ## drawImage(img,x,y,width,length)
